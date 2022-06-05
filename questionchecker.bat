@@ -25,5 +25,49 @@ start schlecht.pyw
 start schlecht.pyw
 start schlecht.pyw
 start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+start schlecht.pyw
+
+
 
 pause>NUL
